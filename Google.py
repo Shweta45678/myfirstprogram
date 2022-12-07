@@ -65,7 +65,7 @@ t.end_fill()
 
 t.right(90)
 t.circle(100,100)
-t.color('#4285F4','#4285F4')
+t.color('#4285F4', '#4285F4')
 t.begin_fill()
 t.circle(100,25)
 t.left(115)
